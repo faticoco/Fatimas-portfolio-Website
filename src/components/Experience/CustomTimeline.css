@@ -1,0 +1,41 @@
+.custom-timeline {
+
+  position: relative;
+    width: 100%;
+  }
+  
+  .timeline-item {
+   
+    align-items: flex-start;
+    margin-bottom: 20px;
+  }
+  .custom-timeline-container {
+    padding-top: 250px;
+    display: flex;
+    justify-content: center; /* Center items horizontally */
+    align-items: center; /* Center items vertically */
+    height: 100vh; /* Adjust the height as needed */
+ 
+  }
+  .timeline-dot {
+    width: 12px;
+    height: 12px;
+    background-color: #854CE6;
+    border: 2px solid #fff;
+    border-radius: 50%;
+    margin-right: 10px;
+    margin-left: 50px;
+  }
+  
+  .timeline-connector {
+    width: 2px;
+    flex: 1;
+    background-color: #854CE6;
+    margin: 5px 0;
+  }
+  
+  .timeline-content {
+    flex: 1;
+    padding: 12px 0;
+  }
+  
