@@ -403,7 +403,7 @@ export const projects = [
 
   {
     id: 11,
-    title: "Steak restraunt website",
+    title: "Steak restaurant website",
     date: "2020",
     description:
       "Website front end made for a steak restraunt providing various features pages (at very beginning of coding)",
