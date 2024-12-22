@@ -295,14 +295,12 @@ export const projects = [
     title: "Services company App",
     date: "2024",
     description:
-      "An app that provides information of multiple services provided my solvexa marketing and this was built using React js and Node js along with Mongo db.",
-    tags: ["Raect Js","Node js", "Mongo"],
+      "An app that provides information of multiple services provided by solvexa marketing and this was built using React js and Node js along with Mongo db.",
+    tags: ["Raect Js", "Node js", "Mongo"],
     category: "web app",
     github: "https://solvexa-marketing.vercel.app/",
     image: solvexa,
-    
-  }
- ,
+  },
   {
     id: 2,
     title: "Bank management system",
