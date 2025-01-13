@@ -227,7 +227,7 @@ export const experiences = [
     // img: "https://media.licdn.com/dms/image/C4D0BAQHGmlqt9rAgug/company-logo_200_200/0/1597566561593?e=2147483647&v=beta&t=MEadgj5jl9Swi979ZjrJIZaWT-dskSU-VunmyORZgmQ",
     role: "Frontend Developer",
     company: "Abyss technology ( Malaysia )",
-    date: "April 2024 - Present",
+    date: "April 2024 - June 2024",
     desc: "Working on the frontend of the web applications",
     skills: ["Html", "Css", "Jquery"],
   },
