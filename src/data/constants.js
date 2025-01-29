@@ -6,6 +6,7 @@ import country from "../images/country.png";
 import store from "../images/food-store.png";
 import solvexa from "../images/solvexa.png";
 
+import midwife from "../images/midwife.png";
 import gcr from "../images/gcr.jpg";
 import js from "../images/js.jpeg";
 import methyl from "../images/methyl.jpeg";
@@ -328,7 +329,7 @@ export const projects = [
     tags: ["Typescript", "React", "Tailwind css"],
     category: "web app",
     github: " https://midwivesfinder.vercel.app/",
-    image: bank,
+    image: midwife,
   },
   {
     id: 3,
