@@ -319,8 +319,19 @@ export const projects = [
     github: "https://solvexa-marketing.vercel.app/",
     image: solvexa,
   },
-  {
+   {
     id: 2,
+    title: "Midwife finder germany",
+    date: "2025",
+    description:
+      "An app that connects moms and midwives, midwifes offer various services that moms can filter and select midwife of their choice as well as chat with them.",
+    tags: ["Typescript", "React", "Tailwind css"],
+    category: "web app",
+    github: " https://midwivesfinder.vercel.app/",
+    image: bank,
+  },
+  {
+    id: 3,
     title: "Bank management system",
     date: "2023",
     description:
@@ -331,7 +342,7 @@ export const projects = [
     image: bank,
   },
   {
-    id: 3,
+    id: 4,
     title: "Traffic light simulator",
     date: "2021",
     description:
@@ -342,7 +353,7 @@ export const projects = [
     image: "",
   },
   {
-    id: 4,
+    id: 5,
     title: "Clean air harbors",
     date: "2021",
     description:
@@ -354,7 +365,7 @@ export const projects = [
     image: clean,
   },
   {
-    id: 5,
+    id: 6,
     title: "Grocerries shopping App",
     date: "2023",
     description:
@@ -365,7 +376,7 @@ export const projects = [
     image: store,
   },
   {
-    id: 6,
+    id: 7,
     title: "JS Code Analyzer",
     date: "2024",
     description:
@@ -377,7 +388,7 @@ export const projects = [
   },
 
   {
-    id: 7,
+    id: 8,
     title: "Combat atari game",
     date: "2021",
     description:
@@ -388,7 +399,7 @@ export const projects = [
     image: "",
   },
   {
-    id: 8,
+    id: 9,
     title: "CleanSlate",
     date: "2024",
     description:
@@ -399,7 +410,7 @@ export const projects = [
     image: cleanslate,
   },
   {
-    id: 9,
+    id: 10,
     title: "Query searcher",
     date: "2022",
     description:
@@ -410,7 +421,7 @@ export const projects = [
     image: query,
   },
   {
-    id: 10,
+    id: 11,
     title: "AI model training for objects detection",
     date: "2024",
     description:
@@ -421,7 +432,7 @@ export const projects = [
     image: ai,
   },
   {
-    id: 11,
+    id: 12,
     title: "Search countries info app",
     date: "2021",
     description:
@@ -433,7 +444,7 @@ export const projects = [
   },
 
   {
-    id: 12,
+    id: 13,
     title: "Steak restaurant website",
     date: "2020",
     description:
@@ -444,7 +455,7 @@ export const projects = [
     image: steak,
   },
   {
-    id: 13,
+    id: 14,
     title: "Podcasts Website",
     date: "2024",
     description: "A website built for viewing podcasts (one pager) ",
@@ -454,7 +465,7 @@ export const projects = [
     image: podcasts,
   },
   {
-    id: 14,
+    id: 15,
     title: "Methyl Architects",
     date: "2024",
     description:
