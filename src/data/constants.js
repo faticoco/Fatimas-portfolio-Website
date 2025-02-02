@@ -186,7 +186,7 @@ export const experiences = [
   },
     {
     id: 1,
-    // img: "https://media.licdn.com/dms/image/C4D0BAQHGmlqt9rAgug/company-logo_200_200/0/1597566561593?e=2147483647&v=beta&t=MEadgj5jl9Swi979ZjrJIZaWT-dskSU-VunmyORZgmQ",
+    img: "https://lhr.nu.edu.pk/static/campus/Images/logo.PNG",
     role: "Teacher Assistant for Web Engineering course",
     company: "Fast Nuces",
     date: "September 2024 - Jan 2025",
