@@ -325,18 +325,6 @@ export const projects = [
   },
   {
     id: 5,
-    title: "Clean air harbors",
-    date: "2021",
-    description:
-      "A desktop app front end made to control the carbon footprint in the environment where government could get in contect with industries  and also personal level carbon footprint check could be maintained",
-    tags: ["Svelte Js", "Daisy UI", "Flow Bite"],
-    category: "Desktop Application",
-    github:
-      "https://github.com/faticoco/Clean-AirHarbors-app-front-end-reducing-carbon-footprint-",
-    image: clean,
-  },
-  {
-    id: 6,
     title: "Grocerries shopping App",
     date: "2023",
     description:
@@ -347,7 +335,7 @@ export const projects = [
     image: store,
   },
   {
-    id: 7,
+    id: 6,
     title: "JS Code Analyzer",
     date: "2024",
     description:
@@ -358,19 +346,9 @@ export const projects = [
     image: js,
   },
 
+  
   {
     id: 8,
-    title: "Combat atari game",
-    date: "2021",
-    description:
-      "A game made with players as bots and human and bots count may keep changing who would shoot the human to get certain points ",
-    tags: ["Glew/Glut", "OOP"],
-    category: "console app",
-    github: "https://github.com/faticoco/combat-game-GLEW-GLUT",
-    image: "",
-  },
-  {
-    id: 9,
     title: "CleanSlate",
     date: "2024",
     description:
@@ -381,7 +359,7 @@ export const projects = [
     image: cleanslate,
   },
   {
-    id: 10,
+    id: 9,
     title: "Query searcher",
     date: "2022",
     description:
@@ -392,7 +370,7 @@ export const projects = [
     image: query,
   },
   {
-    id: 11,
+    id: 10,
     title: "AI model training for objects detection",
     date: "2024",
     description:
@@ -403,40 +381,7 @@ export const projects = [
     image: ai,
   },
   {
-    id: 12,
-    title: "Search countries info app",
-    date: "2021",
-    description:
-      "Any country name is entered to get information related to it by fetching information by getting a large amount of data as json from an api",
-    tags: ["JavaScript", "Postman"],
-    category: "web app",
-    github: "https://github.com/faticoco/Search-countries-info-app",
-    image: country,
-  },
-
-  {
-    id: 13,
-    title: "Steak restaurant website",
-    date: "2020",
-    description:
-      "Website front end made for a steak restraunt providing various features pages (at very beginning of coding)",
-    tags: ["HTML", "CSS"],
-    category: "web app",
-    github: "https://github.com/faticoco/Steak-Restraunt-website-html",
-    image: steak,
-  },
-  {
-    id: 14,
-    title: "Podcasts Website",
-    date: "2024",
-    description: "A website built for viewing podcasts (one pager) ",
-    tags: ["html", "css"],
-    category: "web app",
-    github: "",
-    image: podcasts,
-  },
-  {
-    id: 15,
+    id: 11,
     title: "Methyl Architects",
     date: "2024",
     description:
