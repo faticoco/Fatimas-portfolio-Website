@@ -5,7 +5,7 @@ import cleanslate from "../images/cleanslate.png";
 import country from "../images/country.png";
 import store from "../images/food-store.png";
 import solvexa from "../images/solvexa.png";
-
+import fyp from "../images/fyp.png";
 import midwife from "../images/midwife.png";
 import gcr from "../images/gcr.jpg";
 import js from "../images/js.jpeg";
@@ -260,6 +260,17 @@ export const education = [
 export const projects = [
   {
     id: 0,
+    title: "Modelosaurus",
+    date: "2025",
+    description:
+      "Final year project that provides a no code solution for ML/DL model development, fine-tuning, testing, visualization, dataset creation (auto-labelling), chatbot creation, etc.",
+    tags: ["Nodejs", "FastAPI", "ReactJs", "MongoDB", "Tailwind CSS"],
+    category: "web app",
+    github: "",
+    image: fyp,
+  },
+  {
+    id: 1,
     title: "Google classroom",
     date: "2023",
     description:
@@ -270,7 +281,7 @@ export const projects = [
     image: gcr,
   },
   {
-    id: 1,
+    id: 2,
     title: "Services company App",
     date: "2024",
     description:
@@ -280,8 +291,8 @@ export const projects = [
     github: "https://solvexa-marketing.vercel.app/",
     image: solvexa,
   },
-   {
-    id: 2,
+  {
+    id: 3,
     title: "Midwife finder germany",
     date: "2025",
     description:
@@ -292,7 +303,7 @@ export const projects = [
     image: midwife,
   },
   {
-    id: 3,
+    id: 4,
     title: "Bank management system",
     date: "2023",
     description:
@@ -303,7 +314,7 @@ export const projects = [
     image: bank,
   },
   {
-    id: 4,
+    id: 5,
     title: "Traffic light simulator",
     date: "2021",
     description:
@@ -314,7 +325,7 @@ export const projects = [
     image: "",
   },
   {
-    id: 5,
+    id: 6,
     title: "Grocerries shopping App",
     date: "2023",
     description:
@@ -325,7 +336,7 @@ export const projects = [
     image: store,
   },
   {
-    id: 6,
+    id: 7,
     title: "JS Code Analyzer",
     date: "2024",
     description:
@@ -335,8 +346,6 @@ export const projects = [
     github: "https://github.com/faticoco/Automated-Js-Test-Cases-Generator.git",
     image: js,
   },
-
-  
   {
     id: 8,
     title: "CleanSlate",
@@ -382,6 +391,7 @@ export const projects = [
     image: methyl,
   },
 ];
+
 
 export const TimeLineData = [
   { year: 2018, text: "Started my journey in computer Science" },
