@@ -271,17 +271,6 @@ export const projects = [
   },
   {
     id: 1,
-    title: "Google classroom",
-    date: "2023",
-    description:
-      "A platform for teachers and students to post classwork , assignments and comments , submit work and upload marks",
-    tags: ["C#", "Sql"],
-    category: "Desktop Application",
-    github: "https://github.com/faticoco/GOOGLE-CLASS-ROOM",
-    image: gcr,
-  },
-  {
-    id: 2,
     title: "Services company App",
     date: "2024",
     description:
@@ -292,7 +281,7 @@ export const projects = [
     image: solvexa,
   },
   {
-    id: 3,
+    id: 2,
     title: "Midwife finder germany",
     date: "2025",
     description:
@@ -301,6 +290,17 @@ export const projects = [
     category: "web app",
     github: " https://midwivesfinder.vercel.app/",
     image: midwife,
+  },
+   {
+    id: 3,
+    title: "Google classroom",
+    date: "2023",
+    description:
+      "A platform for teachers and students to post classwork , assignments and comments , submit work and upload marks",
+    tags: ["C#", "Sql"],
+    category: "Desktop Application",
+    github: "https://github.com/faticoco/GOOGLE-CLASS-ROOM",
+    image: gcr,
   },
   {
     id: 4,
