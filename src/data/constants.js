@@ -387,7 +387,7 @@ export const projects = [
       "A website built for viewing Portfolio of an architects company and contacting them ",
     tags: ["node js", "react"],
     category: "web app",
-    github: "",
+    github: "https://github.com/faticoco/Methyl-Architects-Website",
     image: methyl,
   },
 ];
