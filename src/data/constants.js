@@ -266,7 +266,7 @@ export const projects = [
       "Final year project that provides a no code solution for ML/DL model development, fine-tuning, testing, visualization, dataset creation (auto-labelling), chatbot creation, etc.",
     tags: ["Nodejs", "FastAPI", "ReactJs", "MongoDB", "Tailwind CSS"],
     category: "web app",
-    github: "",
+    github: "https://modelosaurus-frontend.vercel.app/",
     image: fyp,
   },
   {
