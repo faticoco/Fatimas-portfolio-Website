@@ -25,7 +25,7 @@ export const Bio = {
     "I am a self-motivated software engineering student at FAST NUCES. I have gained valuable experience and skills by practicing various programming languages  and techniques alongside my degree courses.I completed my intermediate studies in ICS on a full scholarship. I am always eager to take on new challenges and expand my knowledge in the field. ",
   github: "https://github.com/faticoco",
   resume:
-    "https://drive.google.com/file/d/163dIhxBSTVD5CZnoHvTfaXFwhQaThmmG/view?usp=sharing",
+    "https://drive.google.com/file/d/10T0UoCHPu18zZcXHDY4oOxU_TZSBampW/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/fatima-bilal-se/",
 };
 
