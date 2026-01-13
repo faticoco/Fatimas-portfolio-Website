@@ -243,9 +243,9 @@ export const education = [
     id: 0,
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwvNghBusu94vLQeuwdCwmsRIhcVYOD0oIymjdGE3trg&s",
     school: "National University of Computing and Emerging sciences",
-    date: "2021 - Present",
-    grade: "3.5 CGPA",
-    desc: "I am currently completing my Software Engineering degree from Fast University Islamabad",
+    date: "2021 - June 2025",
+    grade: "3.51 CGPA",
+    desc: "I have completed my Software Engineering degree from Fast University Islamabad",
   },
   {
     id: 1,
