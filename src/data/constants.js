@@ -1,8 +1,6 @@
 import ai from "../images/ai.jpeg";
 import bank from "../images/bank.png";
-import clean from "../images/clean-air.jpg";
 import cleanslate from "../images/cleanslate.png";
-import country from "../images/country.png";
 import store from "../images/food-store.png";
 import solvexa from "../images/solvexa.png";
 import fyp from "../images/fyp.png";
@@ -10,9 +8,8 @@ import midwife from "../images/midwife.png";
 import gcr from "../images/gcr.jpg";
 import js from "../images/js.jpeg";
 import methyl from "../images/methyl.jpeg";
-import podcasts from "../images/podcasts.jpeg";
 import query from "../images/query.jpeg";
-import steak from "../images/steak.png";
+
 export const Bio = {
   name: "Fatima Bilal",
   roles: [
