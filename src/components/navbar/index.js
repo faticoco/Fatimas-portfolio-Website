@@ -1,7 +1,7 @@
 import React from "react";
 import { DiMeteor } from "react-icons/di";
 import { FaBars } from "react-icons/fa";
-import { styled, useTheme } from "styled-components";
+import { styled } from "styled-components";
 import {
   ButtonContainer,
   GitHubButton,
@@ -26,22 +26,23 @@ const Navbar = () => {
   return (
     <Nav>
       <NavbarContainer>
-        <NavLogo to="/">
-          <a
-            style={{
-              display: "flex",
-              alignItems: "center",
-              color: "white",
-              marginBottom: "20",
-              cursor: "pointer",
-            }}
-          >
-            <DiMeteor size="3rem" />
-            <Span>
-              <b>Fatima Bilal</b>
-            </Span>
-          </a>
-        </NavLogo>
+<NavLogo to="/">
+  <div
+    style={{
+      display: "flex",
+      alignItems: "center",
+      color: "white",
+      marginBottom: "20",
+      cursor: "pointer",
+    }}
+  >
+    <DiMeteor size="3rem" />
+    <Span>
+      <b>Fatima Bilal</b>
+    </Span>
+  </div>
+</NavLogo>
+
         <Icon>
           <FaBars
             onClick={() => {
