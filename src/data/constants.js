@@ -9,6 +9,7 @@ import gcr from "../images/gcr.jpg";
 import js from "../images/js.jpeg";
 import methyl from "../images/methyl.jpeg";
 import query from "../images/query.jpeg";
+import pulse from "../images/pulse.png";
 
 export const Bio = {
   name: "Fatima Bilal",
@@ -289,8 +290,19 @@ export const projects = [
     github: "https://modelosaurus-frontend.vercel.app/",
     image: fyp,
   },
-  {
+   {
     id: 1,
+    title: "PulseBoard-Realtime Collaboration Platform",
+    date: "2026",
+    description:
+      " A real-time collaborative chat platform built for seamless multi-room communication and messages caching using Redis.",
+    tags: ["Nodejs", "Vie 3", "Redis", "Socket.io", "Prime Vue"],
+    category: "web app",
+    github: "https://pulseboard-realtime-collaboration.vercel.app/",
+    image: pulse,
+  },
+  {
+    id: 2,
     title: "Services company App",
     date: "2024",
     description:
@@ -301,7 +313,7 @@ export const projects = [
     image: solvexa,
   },
   {
-    id: 2,
+    id: 3,
     title: "Midwife finder germany",
     date: "2025",
     description:
@@ -312,7 +324,7 @@ export const projects = [
     image: midwife,
   },
    {
-    id: 3,
+    id: 4,
     title: "Google classroom",
     date: "2023",
     description:
@@ -323,7 +335,7 @@ export const projects = [
     image: gcr,
   },
   {
-    id: 4,
+    id: 5,
     title: "Bank management system",
     date: "2023",
     description:
@@ -334,7 +346,7 @@ export const projects = [
     image: bank,
   },
   {
-    id: 5,
+    id: 6,
     title: "Traffic light simulator",
     date: "2021",
     description:
@@ -345,7 +357,7 @@ export const projects = [
     image: "",
   },
   {
-    id: 6,
+    id: 7,
     title: "Grocerries shopping App",
     date: "2023",
     description:
@@ -356,7 +368,7 @@ export const projects = [
     image: store,
   },
   {
-    id: 7,
+    id: 8,
     title: "JS Code Analyzer",
     date: "2024",
     description:
@@ -367,7 +379,7 @@ export const projects = [
     image: js,
   },
   {
-    id: 8,
+    id: 9,
     title: "CleanSlate",
     date: "2024",
     description:
@@ -378,7 +390,7 @@ export const projects = [
     image: cleanslate,
   },
   {
-    id: 9,
+    id: 10,
     title: "Query searcher",
     date: "2022",
     description:
@@ -389,7 +401,7 @@ export const projects = [
     image: query,
   },
   {
-    id: 10,
+    id: 11,
     title: "AI model training for objects detection",
     date: "2024",
     description:
@@ -400,7 +412,7 @@ export const projects = [
     image: ai,
   },
   {
-    id: 11,
+    id: 12,
     title: "Methyl Architects",
     date: "2024",
     description:
