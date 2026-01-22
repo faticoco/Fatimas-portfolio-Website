@@ -407,7 +407,7 @@ export const projects = [
       "A website built for viewing Portfolio of an architects company and contacting them ",
     tags: ["node js", "react"],
     category: "web app",
-    github: "https://github.com/faticoco/Methyl-Architects-Website",
+    github: "https://methyl-architects-portfolio-website.vercel.app/",
     image: methyl,
   },
 ];
