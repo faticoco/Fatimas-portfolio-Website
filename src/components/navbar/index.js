@@ -22,10 +22,7 @@ font-size; 18px;
 
 const Navbar = () => {
   const [open, setOpen] = React.useState(false);
-  const theme = useTheme();
-  const handleMobileMenuLinkClick = () => {
-    setOpen(false);
-  };
+
   return (
     <Nav>
       <NavbarContainer>
